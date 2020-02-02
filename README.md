@@ -1,2 +1,3 @@
-# personal webpage
-Hong's personal website
+# Welcome to Hong Zhan's Teaching Portfolio
+
+Hong's personal webpage
