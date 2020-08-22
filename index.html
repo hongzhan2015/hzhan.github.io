@@ -5,7 +5,11 @@
   
   <body>
     <p>Welcome to Hong&#39;s Webpage</p>
-<p>Date:&nbsp;<span id="datetime"></span></p>
+<p>Date/Time: <span id="datetime"></span></p>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleTimeString();
+</script>
 <table style="width: 100%;">
     <tbody>
         <tr>
