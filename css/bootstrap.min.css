@@ -5444,7 +5444,7 @@ button.close {
 
 .carousel-indicators li::after {
     position: absolute;
-    bottom: -10px;
+    bottom: -50px;
     left: 0;
     display: inline-block;
     width: 100%;
