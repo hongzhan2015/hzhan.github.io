@@ -5280,7 +5280,6 @@ button.close {
 .carousel-inner {
     position: relative;
     width: 100%;
-    bottom:-50px;
     overflow: hidden
 }
 
@@ -5408,7 +5407,7 @@ button.close {
 .carousel-indicators {
     position: absolute;
     right: 0;
-    bottom: 10px;
+    bottom: -50px;
     left: 0;
     z-index: 15;
     display: -ms-flexbox;
